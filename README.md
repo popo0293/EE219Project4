@@ -23,7 +23,7 @@ graphviz v2.38.0
 ### How to run
 Use Jupyter notebook: 
 > 1. run Jupyter notebook locally
-> 2. open ***project3.ipynb*** and directly execute cells inside the notebook.
+> 2. open ***project4.ipynb*** and directly execute cells inside the notebook.
 
 Recommend:
 >  in the git repository, precomputed results are saved in pickle files to save your computation time
@@ -31,11 +31,11 @@ Recommend:
 
 ### Results and Report
 An automatically generated pdf file contains the project report (with jupyter nbconvert):
-> ***Project4_with_report.pdf***
+> ***Report_Project4.pdf***
 
 A webpage snapshot is also provided:
 > ***project4_report.png***
 
 Or you may directly open ***project4_with_report.ipynb*** on github:  
-**https://github.com/popo0293/EE219Project4/blob/master/Project4_with_report.pdf**
+**https://github.com/popo0293/EE219Project4/blob/master/Report_Project4.pdf**
 
